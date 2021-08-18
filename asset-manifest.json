@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/quiz/static/css/main.a7c9ad70.chunk.css",
+    "main.js": "/quiz/static/js/main.451ea4a4.chunk.js",
+    "main.js.map": "/quiz/static/js/main.451ea4a4.chunk.js.map",
+    "runtime-main.js": "/quiz/static/js/runtime-main.dcf1b571.js",
+    "runtime-main.js.map": "/quiz/static/js/runtime-main.dcf1b571.js.map",
+    "static/css/2.4be38407.chunk.css": "/quiz/static/css/2.4be38407.chunk.css",
+    "static/js/2.c3cde947.chunk.js": "/quiz/static/js/2.c3cde947.chunk.js",
+    "static/js/2.c3cde947.chunk.js.map": "/quiz/static/js/2.c3cde947.chunk.js.map",
+    "index.html": "/quiz/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/quiz/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.a7c9ad70.chunk.css.map": "/quiz/static/css/main.a7c9ad70.chunk.css.map",
+    "static/js/2.c3cde947.chunk.js.LICENSE.txt": "/quiz/static/js/2.c3cde947.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icon.6e17414e.png": "/quiz/static/media/bootstrap-icon.6e17414e.png",
+    "static/media/github-logo.c8007a9f.png": "/quiz/static/media/github-logo.c8007a9f.png",
+    "static/media/lottiefiles-logo.71a2cccf.svg": "/quiz/static/media/lottiefiles-logo.71a2cccf.svg",
+    "static/media/pixeltrue-packs.775d1133.svg": "/quiz/static/media/pixeltrue-packs.775d1133.svg",
+    "static/media/quizApi-dark.6a3421fb.png": "/quiz/static/media/quizApi-dark.6a3421fb.png",
+    "static/media/react-bootstrap.534ba574.svg": "/quiz/static/media/react-bootstrap.534ba574.svg",
+    "static/media/react-logo.44319306.png": "/quiz/static/media/react-logo.44319306.png",
+    "static/media/sass-logo.3bd84b23.svg": "/quiz/static/media/sass-logo.3bd84b23.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcf1b571.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.c3cde947.chunk.js",
+    "static/css/main.a7c9ad70.chunk.css",
+    "static/js/main.451ea4a4.chunk.js"
+  ]
+}
