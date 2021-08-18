@@ -1,0 +1,23 @@
+.cards-container {
+  padding: 1% 10%;
+}
+
+.cardQuestion {
+  margin: 20px;
+  width: 100px;
+  height: 50px;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.myHover:hover {
+  background-color: #e8e8e8 !important;
+}
+
+@media only screen and (max-width: 525px) {
+  .cards-container {
+    padding: 1% 0;
+  }
+}

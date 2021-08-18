@@ -1,0 +1,11 @@
+.InicialAnim {
+  width: 300px;
+  margin: auto;
+}
+
+@media only screen and (max-width: 525px) {
+  .InicialAnim {
+    width: 220px;
+    margin: auto;
+  }
+}

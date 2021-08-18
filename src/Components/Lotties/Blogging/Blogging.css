@@ -1,0 +1,9 @@
+.Blogging {
+  width: 400px;
+}
+
+@media only screen and (max-width: 525px) {
+  .Blogging {
+    width: 200px;
+  }
+}
