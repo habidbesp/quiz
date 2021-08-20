@@ -163,16 +163,16 @@ function App() {
       <div className='app-container'>
         <div className="container">
         {
-          location.pathname === "/set_quiz" ?
+          location.pathname === "/quiz/set_quiz" ?
             ''
             :
             limit < 5 ?
-              <SubHeader/>
+              <SubHeader />
               :
               ""
         }
         <Switch>
-          <Route exact path='/quiz'>
+          <Route exact path='/quiz/quiz_start'>
             {limit < 5 ?
             ''
             :
@@ -180,11 +180,11 @@ function App() {
             }
           </Route>
 
-          <Route exact path='/set_quiz'>
+          <Route exact path='/quiz/set_quiz'>
             <NumberOfQuestions />
           </Route>
 
-          <Route path='/result'>
+          <Route path='/quiz/result'>
             {
               limit < 5 ?
                 ""

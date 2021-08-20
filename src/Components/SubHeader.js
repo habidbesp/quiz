@@ -10,7 +10,7 @@ export default function SubHeader() {
                 <div className="mb-5">
                     <InicialAnim/>
                 </div>
-                <Link to='set_quiz' className="text-decoration-none fs-3">👉 Start Quiz</Link>
+                <Link to='/quiz/set_quiz' className="text-decoration-none fs-3">👉 Start Quiz</Link>
             </div>
         </div>
     )

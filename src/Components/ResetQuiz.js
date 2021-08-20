@@ -22,7 +22,7 @@ export default function ResetQuiz() {
             type: "RESET_NUMBER"
         })
 
-        history.push('/set_quiz')
+        history.push('/quiz/set_quiz')
     }
 
     return (

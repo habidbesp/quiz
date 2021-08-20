@@ -6,7 +6,7 @@ export default function Submit() {
     const history = useHistory()
     
     const handleClick = () => {
-        history.push('/result')
+        history.push('/quiz/result')
     }
 
     return (

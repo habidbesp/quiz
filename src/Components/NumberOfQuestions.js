@@ -38,7 +38,7 @@ export default function NumberOfQuestions() {
             type: "RESET_NUMBER"
         })
 
-        history.push('/quiz')
+        history.push('/quiz/quiz_start')
     }
 
     return (
